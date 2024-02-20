@@ -1,2 +1,3 @@
 # Random-Password-Generator
-# Author - Rahul Gupta
+<br>
+ Author - Rahul Gupta
